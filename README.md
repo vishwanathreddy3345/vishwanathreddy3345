@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋 I'm [Your Name]
 
-<!--
-**vishwanathreddy3345/vishwanathreddy3345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate developer who loves building things with code.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, Java, HTML, CSS
+- **Frameworks & Libraries:** Flask, NumPy, Pandas
+- **Currently Learning:** Generative AI 🤖 | Data Structures & Algorithms 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm up to
+- Sharpening my DSA skills one problem at a time
+- Diving deep into the world of Generative AI
+- Building projects that blend data and the web
+
+## 📬 Let's Connect
+Always open to collaborating on interesting projects or just a good tech chat!
+
+
